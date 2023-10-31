@@ -1,6 +1,25 @@
 # RestApi-mongodb
 The server will start at http://localhost:3000 by default.
 
+<h2>Technologies Used</h2>
+
+<p>
+    <ul>
+        <li>Node.js</li>
+        <li>Express</li>
+        <li>Mongodb</li>
+    </ul>
+</p>
+
+# To use this application, follow these steps:
+<ol>
+    <li>Clone the repository.</li>
+    <li>Install the necessary dependencies using <code>npm install</code>.</li>
+    <li>Set up the database configurations.</li>
+    <li>Run the server using <code>node app.js</code>.</li>
+    <li>Open the application in your browser.</li>
+</ol>
+
 # Endpoints
 <ul>
 <li>GET / - Get default route.</li>
