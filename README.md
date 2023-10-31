@@ -22,12 +22,12 @@ The server will start at http://localhost:3000 by default.
 
 # Endpoints
 <ul>
-<li>GET / - Get default route.</li>
-<li>POST /add - Add a new book.</li>
-<li>GET /show - Get all books.</li>
-<li>GET /show/:id - Get a specific book by ID.</li>
-<li>GET /update/:id - Update a specific book by ID.</li>
-<li>DELETE /delete/:id - Delete a specific book by ID.</li>
+<li>GET /books - Get default route.</li>
+<li>POST /books/add - Add a new book.</li>
+<li>GET /books/show - Get all books.</li>
+<li>GET /books/show/:id - Get a specific book by ID.</li>
+<li>GET /books/update/:id - Update a specific book by ID.</li>
+<li>DELETE /books/delete/:id - Delete a specific book by ID.</li>
 </ul>
 
 # Usage
